@@ -1,0 +1,32 @@
+body{
+    background-image: url("telafundo.gif");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #034c6e;
+    background-size:  150%;
+    background-repeat: no-repeat;
+    font-size: large;
+    
+    
+    }
+    h1{
+    color: aliceblue;
+    
+    
+    }
+    label{
+        color: aliceblue;
+    }
+    button{
+        transition: background-color 0.3s ease;
+        box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);
+        width: 200px;
+        height: 50px;
+        position: absolute;
+        left: 80%;
+        background-color: #f1f1f1;
+    }
+    p{
+        color: #f1f1f1;
+    }
